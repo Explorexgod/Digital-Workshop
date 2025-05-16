@@ -102,3 +102,4 @@ print(book2.get_info())  # Вывод: Brave New World, автор: Aldous Huxle
 
 # Пример с неверным годом
 # book3 = Book("Title", "Author", 2025)  # Вызовет ValueError
+6
