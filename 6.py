@@ -38,3 +38,4 @@ print(exp_func.derivative(0))  # 2.0 (производная 2e^x в x=0)
 
 # Построение графиков
 exp_func.plot()
+6
