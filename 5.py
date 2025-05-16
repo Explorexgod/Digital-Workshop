@@ -160,3 +160,4 @@ print(m1.shape)
 
 # print("\nОпределитель m1:")
 # print(m1.determinant) #TODO:  Реализовать вычисление определителя
+5
